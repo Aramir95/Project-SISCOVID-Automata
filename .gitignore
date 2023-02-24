@@ -1,0 +1,8 @@
+.pytest_cache
+.coverage
+.env
+atomataEnv
+entornoVirt
+__pycache__
+ClassProject/__pycache__
+Test
