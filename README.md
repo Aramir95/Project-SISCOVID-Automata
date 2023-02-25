@@ -72,7 +72,7 @@ Resultado_de_la_prueba: |Resultado de la prueba de diagnóstico (reactivo o no r
 
 ### SISCOVID-Automata.exe :
 <ol>
-<li>Sistema operativo Windows.</li>
+<li>Sistema operativo Windows 10 o superior.</li>
 <li>Descargar el ejecutable "SISCOVID-Automata.exe"</li>
 <li>Ubicar el ejecutable en su directorio predilecto, de preferencia el escritorio.</li>
 <li>Ejecutar con su data pendiente de ingresar.</li>
